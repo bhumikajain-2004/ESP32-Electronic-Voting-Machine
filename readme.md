@@ -108,13 +108,11 @@ The ESP32 program reads push button inputs, maintains vote counters for each can
 
 ## Repository Structure
 
-ESP32_Electronic_Voting_Machine/
-│
-├── sketch.ino
-├── diagram.json
-├── README.md
-└── screenshot.png
-
+ESP32_Electronic_Voting_Machine
+* sketch.ino
+* diagram.json
+* README.md
+* screenshot.png
 
 ## Author
 
