@@ -3,8 +3,11 @@
 ## Internship Details
 
 **Company:** CodTech IT Solutions
+
 **Intern Name:** Bhumika Dipak Ijare
+
 **Intern ID:** CITS3830
+
 **Domain:** Embedded Systems
 
 ## Project Overview
